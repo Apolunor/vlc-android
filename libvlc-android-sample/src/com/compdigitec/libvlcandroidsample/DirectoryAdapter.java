@@ -17,7 +17,7 @@ import java.util.ArrayList;
  * List adapter used to drive the ListView in the activity.
  */
 public class DirectoryAdapter extends BaseAdapter {
-    public final static String TAG = "LibVLCAndroidSample/DirectoryAdapter";
+    public final static String TAG = "DirectoryAdapter";
 
     private ArrayList<String> mFiles = new ArrayList<String>();
     private boolean mAudio;

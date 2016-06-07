@@ -21,7 +21,7 @@ import org.videolan.libvlc.MediaPlayer;
 import java.io.File;
 
 public class MainActivity extends Activity {
-    public final static String TAG = "LibVLCAndroidSample/MainActivity";
+    public final static String TAG = "MainActivity";
 
     DirectoryAdapter mAdapter;
     LibVLC mLibVLC = null;

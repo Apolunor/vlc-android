@@ -24,7 +24,7 @@ import java.lang.ref.WeakReference;
 import java.util.ArrayList;
 
 public class VideoActivity extends Activity implements IVLCVout.Callback/*, LibVLC.HardwareAccelerationError*/ {
-    public final static String TAG = "LibVLCAndroidSample/VideoActivity";
+    public final static String TAG = "VideoActivity";
 
     public final static String LOCATION = "com.compdigitec.libvlcandroidsample.VideoActivity.location";
 
